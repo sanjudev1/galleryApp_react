@@ -1,0 +1,14 @@
+/* Write your code here. */
+.button {
+  background-color: transparent;
+  border: none;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.active-btn {
+  opacity: 1;
+}
+.image {
+  width: 50px;
+  height: 50px;
+}
